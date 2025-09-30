@@ -1,4 +1,4 @@
-# 📘 Materias Matemáticas
+# 📘 Matemáticas - MVZ
 
 ## 📌 Organización
 - Dentro de cada carpeta encontrarás:
